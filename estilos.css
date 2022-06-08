@@ -1,0 +1,15 @@
+.form-label {
+  text-align: center;
+  font-size: 32px;
+  font-weight: bold;
+}
+p {
+  text-align: center;
+  font-size: 24px;
+  margin-top: 5% !important;
+}
+.emptyBox {
+  height: 100px;
+  border: 1px solid black;
+  border-radius: 1em;
+}
